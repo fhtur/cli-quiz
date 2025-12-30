@@ -8,11 +8,6 @@ Game ini dilengkapi dengan:
 - Spinner saat mengecek jawaban (`nanospinner`)
 - Input nama pemain dengan `inquirer`
 - Efek dramatis: Jika salah jawab, proses akan "dibunuh" (process.exit) 💀
-
-## Demo
-![demo](https://via.placeholder.com/800x400.png?text=Demo+CLI+Quiz+Game+Coming+Soon)  
-*(Nanti kamu bisa rekam demo dengan tool seperti `asciinema` dan upload screenshot/GIF di sini)*
-
 ## Cara Main
 ```bash
 git clone https://github.com/fhtur/cli-quiz.git
